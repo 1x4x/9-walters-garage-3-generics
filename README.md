@@ -8,7 +8,7 @@ A console-based vehicle garage manager built with modern .NET 8 and C#.
 
 Garage 3.0 demonstrates object-oriented programming, generic collections, interfaces, LINQ, input validation, and automated unit testing in a small, easy-to-follow application.
 
-> **Screenshot note:** The images below are illustrative terminal previews of the application's expected menus and output. They are not captured from a running .NET process.
+> **Screenshot note:** You can watch the screenshot images below to see the application's menus and output.
 
 ## 🖥️ Screenshots
 
