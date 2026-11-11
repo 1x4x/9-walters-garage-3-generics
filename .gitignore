@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/9-walters-garage-3-generics
+/.vs/Garage3/CopilotIndices/17.14.1700.50054
+/.vs/Garage3/FileContentIndex
+/.vs/Garage3/v17/TestStore/0
+/.vs
+/Garage3/obj
+/Garage3.Tests/bin
+/Garage3.Tests/obj
+/Garage3/bin/Debug/net8.0
